@@ -7,9 +7,9 @@ This project is mainly designed for academic learning, demonstrating concepts su
 
 👨‍💻 Authors
 
-Charitesh
+VEMURI ASRITH NAIDU
 
-Vemuri Asrith Naidu
+CHARITESH
 Department: Computer Science and Engineering
 Institute: PVP Siddhartha Institute of Technology
 
