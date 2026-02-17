@@ -2,7 +2,7 @@
 ---------------------------------------------------------------
                  ELECTRONIC VOTING SYSTEM - C PROGRAM
 ---------------------------------------------------------------
-Author : Charitesh,Asrith
+Author : Asrith
 CSE,PVP SIDDHARDHA INSTITUTE OF TECHNOLOGY
 Language    : C
 Description : 
