@@ -9,7 +9,6 @@ This project is mainly designed for academic learning, demonstrating concepts su
 
 VEMURI ASRITH NAIDU
 
-CHARITESH
 
 Department: Computer Science and Engineering
 
